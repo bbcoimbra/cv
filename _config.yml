@@ -15,14 +15,21 @@ name: Bruno Coimbra
 tagline: Software Engineer | Cloud Computing Specialist
 pic: profile_2018.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: |
-  I am a generalist developer focused on solving problems quickly and with maintainability.
-  I have experience with Ruby language and its ecosystem (Deployments, Automatic Tests, Tasks automation,
-  Web Development, Refactor) and MySQL & PostgreSQL relational databases. Related to NoSQL technologies,
-  I have experience with Redis.
-  Related to Infrastructure and Tasks Automation I am experienced with Terraform, Ansible, Kubernetes, Docker, 
-  Shell Script (and related tools like sed, awk, ssh, bc, etc)."
-
-
+  <p>
+    I am a generalist developer focused on solving problems quickly and
+    with maintainability.
+  </p>
+  <p>
+    I have experience with Ruby language and its ecosystem (Deployments,
+    Automatic Tests, Tasks automation, Web Development, Refactor) and MySQL
+    &amp; PostgreSQL relational databases. Related to NoSQL technologies,
+    I have experience with Redis
+  </p>
+  <p>
+    Related to Infrastructure and Tasks Automation I am experienced with
+    Terraform, Ansible, Kubernetes, Docker, Shell Script (and related
+    tools like sed, awk, ssh, bc, etc).
+  </p>
 #sidebar links
 email: bbcoimbra@gmail.com
 phone: <not-available>
