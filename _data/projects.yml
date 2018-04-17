@@ -1,24 +1,23 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "This is a list of my side projects."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Hepcats' Fever - International Lindy Hop Festival
+  link: "http://www.hepcats.com.br/"
+  tagline: "An international dance festival with lectures, parties, international teachers and a lot of fun."
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: 1941 Vintage' - lectures control system
+  link: "http://jedi.1941vintage.com.br/"
+  tagline: "A system that control students, lectures, teachers and attendances in 1941 Vintage Dance School"
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: Ruby System GetIfAddrs
+  link: "https://github.com/bbcoimbra/system-getifaddrs"
+  tagline: "A Ruby gem that reads NIC's configurations and returns into a data stucture to be consumed inside Ruby program"
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  title: Ruby BR-CNPJ
+  link: "https://github.com/bbcoimbra/br-cnpj"
+  tagline: "A small Ruby gem to generate Brazilian CNPJ."
 - project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Ruby BR-CPF
+  link: "https://github.com/bbcoimbra/br-cpf"
+  tagline: "A small Ruby gem to generate Brazilian CPF."
