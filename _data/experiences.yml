@@ -33,14 +33,49 @@
   role: Senior Software Engineer
   time: 2014 - 2017
   company: Pitzi.com.br, São Paulo, Brazil
-  details: ""
+  details: |
+    <ul>
+      <li> Development of internal systems </li>
+      <ul>
+        <li>Feature development</li>
+        <li>Integration with external partners</li>
+        <li>Integration with external services</li>
+      </ul>
+      <li>Infrastructure/Operations</li>
+      <ul>
+        <li>Development of Application Architecture (Load Balancers, Reverse Proxies, Application Servers)</li>
+        <li>Maintenance of Application Architecture (Monitoring, House-Keeping, Deployment Automation)</li>
+        <li>Internal Wi-Fi Maintenance and Monitoring</li>
+      </ul>
+      <li>Tech Lead/Team Management</li>
+      <ul>
+        <li>Team Lead</li>
+        <li>Interface with Business Teams</li>
+        <li>Expectations Management</li>
+        <li>Technology definition</li>
+        <li>Methodology definition and Process Maintenance</li>
+        <li>Recruitment</li>
+      </ul>
+    </ul>
 - experience:
   role: Software Engineer
   time: 2013 - 2014
   company: Shopcliq, São Paulo, Brazil
-  details: ""
+  details: |
+    <ul>
+      <li>AWS architecture definition, implementation.</li>
+      <li>Improvements into back-end software</li>
+      <li>Database analysis and improvements</li>
+      <li>Improvements in infrastructure</li>
+    </ul>
 - experience:
   role: Operations Developer
   time: 2011 - 2012
-  company: boo-box
-  details: ""
+  company: boo-box, São Paulo, Brazil
+  details: |
+    <p>
+      In this position I was responsible to help the Operations Team to keep
+      the system healthy and stable, and to support the Developers Team to
+      optimize the software for our infrastructure, solve bugs and improve
+      system's architecture.
+    </p>
