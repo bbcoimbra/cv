@@ -1,7 +1,7 @@
 # Site Settings
 title: Resume
 url: 'http://cv.bbcoimbra.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
@@ -11,8 +11,8 @@ baseurl: '/online-cv' #change it according to your repository name
 #style: styles-6
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Bruno Coimbra
+tagline: Software Engineer | Cloud Computing Specialist
 pic: profile_2018.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: |
   I am a generalist developer focused on solving problems quickly and with maintainability.
