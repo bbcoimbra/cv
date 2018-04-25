@@ -11,14 +11,20 @@
   name: Linux & Shell-Script
   level: 75%
 - skill:
+  name: Terraform & Ansible
+  level: 75%
+- skill:
   name: HTML & CSS
   level: 70%
 - skill:
   name: Javascript & EC6
   level: 65%
 - skill:
+  name: Kubernetes & Docker
+  level: 60%
+- skill:
   name: Bulma.io CSS Framework
   level: 60%
 - skill:
   name: VueJS
-  level: 40%
+  level: 30%
