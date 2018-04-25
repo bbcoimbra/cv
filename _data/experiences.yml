@@ -8,8 +8,9 @@
       <ul>
         <li>Development of orchestration software for internal products</li>
         <ul>
-          <li>Ruby / Rails / Sinatra</li>
-          <li>Rspec / Minitest</li>
+          <li> Frameworks (Rails / Sinatra) </li>
+          <li> Tests automation (Rspec / Minitest) </li>
+          <li> Web servers deployment (Puma / Unicorn / Passenger) </li>
         </ul>
       </ul>
       <li>Cloud computing specialist</li>
@@ -17,16 +18,20 @@
         <li>Orchestration and automation of deployments into public Clouds (AWS/Azure)</li>
         <li>
           <ul>
-            <li>Ansible / Docker / Terraform / Kubernetes</li>
+            <li> Cluster orquestration (Kubernetes / Docker) </li>
+            <li> Infrastructure automation (Terraform) </li>
+            <li> Configuration automation (Ansible) </li>
+            <li> Distributed configuration (Consul) </li>
+            <li> Monitoring and Logging (Prometheus / Datadog / LogDNA) </li>
           </ul>
         </li>
       </ul>
       <li> Other Knowledges </li>
       <ul>
-        <li> Databases (PostgreSQL / MySQL) </li>
-        <li> General Purpose Cache (Redis / Memcached) </li>
-        <li> Shell Scripting </li>
-        <li> Linux </li>
+        <li> Databases (PostgreSQL) </li>
+        <li> General Purpose Cache (Redis) </li>
+        <li> Shell Scripting (Bash) </li>
+        <li> Linux (Debian / Ubuntu / CentOS / RHEL / Arch) </li>
       </ul>
     </ul>
 - experience:
@@ -35,16 +40,20 @@
   company: Pitzi.com.br, São Paulo, Brazil
   details: |
     <ul>
-      <li> Development of internal systems </li>
+      <li> Development of internal systems (Ruby ecossystem) </li>
       <ul>
         <li>Feature development</li>
         <li>Integration with external partners</li>
         <li>Integration with external services</li>
       </ul>
-      <li>Infrastructure/Operations</li>
+      <li>Infrastructure/Operations (AWS ecossystem)</li>
       <ul>
         <li>Development of Application Architecture (Load Balancers, Reverse Proxies, Application Servers)</li>
         <li>Maintenance of Application Architecture (Monitoring, House-Keeping, Deployment Automation)</li>
+      </ul>
+      <li>Internal infrastructure/Operations </li>
+      <ul>
+        <li>Internet links and High-Availability</li>
         <li>Internal Wi-Fi Maintenance and Monitoring</li>
       </ul>
       <li>Tech Lead/Team Management</li>
