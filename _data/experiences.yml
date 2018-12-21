@@ -16,15 +16,13 @@
       <li>Cloud computing specialist</li>
       <ul>
         <li>Orchestration and automation of deployments into public Clouds (AWS/Azure)</li>
-        <li>
-          <ul>
-            <li> Cluster orquestration (Kubernetes / Docker) </li>
-            <li> Infrastructure automation (Terraform) </li>
-            <li> Configuration automation (Ansible) </li>
-            <li> Distributed configuration (Consul) </li>
-            <li> Monitoring and Logging (Prometheus / Datadog / LogDNA) </li>
-          </ul>
-        </li>
+        <ul>
+          <li> Cluster orquestration (Kubernetes / Docker) </li>
+          <li> Infrastructure automation (Terraform) </li>
+          <li> Configuration automation (Ansible) </li>
+          <li> Distributed configuration (Consul) </li>
+          <li> Monitoring and Logging (Prometheus / Datadog / LogDNA) </li>
+        </ul>
       </ul>
       <li> Other Knowledges </li>
       <ul>
