@@ -1,6 +1,6 @@
 # Site Settings
 title: Resume
-url: 'http://cv.bbcoimbra.com'
+url: 'http://blog.bbcoimbra.com'
 baseurl: '/cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -16,18 +16,18 @@ tagline: Software Engineer | Cloud Computing Specialist
 pic: profile_2018.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: |
   <p>
-    I am a generalist developer focused on solving problems quickly and
+    I am a generalist engineer focused on solving problems quickly and
     with maintainability.
   </p>
   <p>
-    I have experience with Ruby language and its ecosystem (Deployments,
-    Automatic Tests, Tasks automation, Web Development, Refactor) and MySQL
-    &amp; PostgreSQL relational databases. Related to NoSQL technologies,
-    I have experience with Redis
+    I'm proficient in Ruby ecosystem (Deployments, Automatic Tests, Tasks automation,
+    Web Development, Refactor) and skilled in MySQL &amp; PostgreSQL relational
+    databases. I've deep knowledge in Cloud Computing (AWS, GCloud, Digital Ocean).
   </p>
   <p>
-    Related to Infrastructure and Tasks Automation I am experienced with
-    Terraform, Ansible, Kubernetes, Docker, Shell Script (and related
+    Related to Infrastructure and Tasks Automation I am experienced
+    in Cloud Computing providers (AWS, GCloud, Digital Ocean), automation
+    with Terraform, Ansible, Kubernetes, Docker, Shell Script (and related
     tools like sed, awk, ssh, bc, etc).
   </p>
 #sidebar links
