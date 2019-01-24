@@ -3,27 +3,27 @@
   level: 98%
 - skill:
   name: Redis & Sidekiq
-  level: 85%
+  level: 95%
 - skill:
   name: PostgreSQL & MySQL
-  level: 80%
+  level: 85%
 - skill:
   name: Linux & Shell-Script
-  level: 75%
+  level: 90%
 - skill:
   name: Terraform & Ansible
-  level: 75%
+  level: 85%
 - skill:
   name: HTML & CSS
-  level: 70%
+  level: 75%
 - skill:
   name: Javascript & EC6
+  level: 70%
+- skill:
+  name: Bulma.io CSS Framework
   level: 65%
 - skill:
   name: Kubernetes & Docker
-  level: 60%
-- skill:
-  name: Bulma.io CSS Framework
   level: 60%
 - skill:
   name: VueJS
