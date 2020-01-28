@@ -5,6 +5,34 @@
   details: |
     <ul>
       <li>Product Development</li>
+      <li>
+        <ul>
+          <li>Stock Control</li>
+          <li>Bank Integration</li>
+          <li>Admin Dashboard</li>
+          <li>Customer Dashboard</li>
+        </ul>
+      </li>
+      <li>Ruby specialist</li>
+      <ul>
+        <li>Development of orchestration software for internal products</li>
+        <ul>
+          <li> Frameworks (Rails / Sinatra) </li>
+          <li> Tests automation (Rspec / Minitest) </li>
+          <li> Web servers deployment (Puma / Unicorn / Passenger) </li>
+        </ul>
+      </ul>
+      <li>Infraestructure Deployment and Management</li>
+      <li>
+        <ul>
+          <li>Deployment in AWS</li>
+          <li>
+            <ul>
+              <li>EC2 - S3 - RDS - Route53 - ELB</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
     </ul>
 - experience:
   role: Software Engineer and Cloud Computing Specialist
