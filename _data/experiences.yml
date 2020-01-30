@@ -5,14 +5,12 @@
   details: |
     <ul>
       <li>Product Development</li>
-      <li>
-        <ul>
-          <li>Stock Control</li>
-          <li>Bank Integration</li>
-          <li>Admin Dashboard</li>
-          <li>Customer Dashboard</li>
-        </ul>
-      </li>
+      <ul>
+        <li>Stock Control</li>
+        <li>Bank Integration</li>
+        <li>Admin Dashboard</li>
+        <li>Customer Dashboard</li>
+      </ul>
       <li>Ruby specialist</li>
       <ul>
         <li>Development of orchestration software for internal products</li>
@@ -26,11 +24,9 @@
       <li>
         <ul>
           <li>Deployment in AWS</li>
-          <li>
-            <ul>
-              <li>EC2 - S3 - RDS - Route53 - ELB</li>
-            </ul>
-          </li>
+          <ul>
+            <li>EC2 - S3 - RDS - Route53 - ELB</li>
+          </ul>
         </ul>
       </li>
     </ul>
