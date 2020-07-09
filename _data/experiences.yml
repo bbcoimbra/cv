@@ -1,8 +1,50 @@
 - experience:
-  role: Software Engineer and IT Specialist
-  time: 2019 - present
-  company: PlugJá, São Paulo, Brazil
+  role: Senior Software Developer
+  time: 2020 - present
+  company: Pismo.io, São Paulo, Brazil
   details: |
+    <p>
+      In this position, I'm member of a team responsible to maintain systems and APIs from main customer
+      of company. My daily basis job includes develop features requested by customer, solve bugs and 
+      observe metrics (response times, resources usage, number of errors) to find which applications should
+      be improved. 
+    </p>
+    <ul>
+      <li>Software development</li>
+      <ul>
+        <li>Maintenance and development of APIs in Go and Groovy/Java</li>
+        <li>Automatic tesing / TDD/BDD </li>
+      </ul>
+      <li>DevOps/SRE Stuff</li>
+      <ul>
+        <li>CI/CD</li>
+        <ul>
+          <li> Build and Maintenance of Docker images for applications </li>
+          <li> Create pipeline of test and Docker image creation for CI (CircleCI) </li>
+          <li> Deployment in Kubernetes </li>
+          <li> Deployment in AWS - EC2 - S3 - RDS - Route53 - ELB </li>
+        </ul>
+        <li>Monitoring</li>
+        <ul>
+          <li> Code instrumentation for distributed tracing (Opentracing, Honeycomb) </li>
+          <li> Distributed logging tools (using Datadog) </li>
+          <li> Metric collectors and dasboards creation </li>
+          <li> Monitoring of error budgets and SLOs </li>
+        </ul>
+      </ul>
+    </ul>
+- experience:
+  role: Software Engineer and IT Specialist
+  time: 2019 - 2020
+  company: Plugify, São Paulo, Brazil
+  details: |
+    <p>
+      In this position I was responsible for all development, deployment and maintenance of product.
+      As the only IT person, I had to undertood the needs of internal customers, stakeholders and make
+      a functional, usable and beauty system to control the stock of devices to rent and rented.
+      All systems were developed with a Ruby stack (Rails, RSpec, Sidekiq) and Postgresql for DB, and
+      deployed in AWS.
+    </p>
     <ul>
       <li>Product Development</li>
       <ul>
@@ -16,8 +58,9 @@
         <li>Development of orchestration software for internal products</li>
         <ul>
           <li> Frameworks (Rails / Sinatra) </li>
-          <li> Tests automation (Rspec / Minitest) </li>
-          <li> Web servers deployment (Puma / Unicorn / Passenger) </li>
+          <li> Tests automation (Rspec) </li>
+          <li> Web servers deployment (Puma) </li>
+          <li> Background jobs (Sidekiq) </li>
         </ul>
       </ul>
       <li>Infraestructure Deployment and Management</li>
@@ -25,7 +68,7 @@
         <ul>
           <li>Deployment in AWS</li>
           <ul>
-            <li>EC2 - S3 - RDS - Route53 - ELB</li>
+            <li> EC2 - S3 - RDS - Route53 - ELB </li>
           </ul>
         </ul>
       </li>
@@ -35,6 +78,11 @@
   time: 2017 - 2019
   company: TOTVS SA, São Paulo, Brazil
   details: |
+    <p>
+      In this position I was member of a team responsible to provision and mantain the ERP products
+      from company's customers. As a R&D team, we tried lots of tools to discover which ones we
+      needed to deliver a service with very high quality standards. 
+    </p>
     <ul>
       <li>Ruby specialist</li>
       <ul>
@@ -43,6 +91,7 @@
           <li> Frameworks (Rails / Sinatra) </li>
           <li> Tests automation (Rspec / Minitest) </li>
           <li> Web servers deployment (Puma / Unicorn / Passenger) </li>
+          <li> Background jobs (Sidekiq) </li>
         </ul>
       </ul>
       <li>Cloud computing specialist</li>
@@ -52,8 +101,7 @@
           <li> Cluster orquestration (Kubernetes / Docker) </li>
           <li> Infrastructure automation (Terraform) </li>
           <li> Configuration automation (Ansible) </li>
-          <li> Distributed configuration (Consul) </li>
-          <li> Monitoring and Logging (Prometheus / Datadog / LogDNA) </li>
+          <li> Monitoring and Logging (Datadog / LogDNA) </li>
         </ul>
       </ul>
       <li> Other Knowledges </li>
@@ -61,7 +109,7 @@
         <li> Databases (PostgreSQL) </li>
         <li> General Purpose Cache (Redis) </li>
         <li> Shell Scripting (Bash) </li>
-        <li> Linux (Debian / Ubuntu / CentOS / RHEL / Arch) </li>
+        <li> Linux (Ubuntu / CentOS) </li>
       </ul>
     </ul>
 - experience:
