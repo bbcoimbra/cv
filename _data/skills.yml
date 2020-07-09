@@ -1,9 +1,15 @@
 - skill:
-  name: Ruby & Rails
+  name: Ruby
   level: 98%
 - skill:
-  name: Redis & Sidekiq
+  name: Ruby on Rails
   level: 95%
+- skill:
+  name: Sidekiq
+  level: 90%
+- skill:
+  name: Redis
+  level: 90%
 - skill:
   name: MySQL
   level: 85%
