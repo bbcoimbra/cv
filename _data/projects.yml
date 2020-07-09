@@ -8,11 +8,11 @@
 - project:
   title: 1941 Vintage' - lectures control system
   link: "http://jedi.1941vintage.com.br/"
-  tagline: "A system that control students, lectures, teachers and attendances in 1941 Vintage Dance School"
+  tagline: "A system that control students, lectures, teachers and attendances in 1941 Vintage Dance School."
 - project:
   title: Ruby system-getifaddrs
   link: "https://github.com/bbcoimbra/system-getifaddrs"
-  tagline: "A Ruby gem that reads NIC's configurations and returns into a data stucture to be consumed inside Ruby program"
+  tagline: "A Ruby gem that reads NIC's configurations and returns into a data stucture to be consumed inside Ruby program."
 - project:
   title: Ruby BR-CNPJ
   link: "https://github.com/bbcoimbra/br-cnpj"
