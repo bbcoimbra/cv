@@ -64,14 +64,12 @@
         </ul>
       </ul>
       <li>Infraestructure Deployment and Management</li>
-      <li>
+      <ul>
+        <li>Deployment in AWS</li>
         <ul>
-          <li>Deployment in AWS</li>
-          <ul>
-            <li> EC2 - S3 - RDS - Route53 - ELB </li>
-          </ul>
+          <li> EC2 - S3 - RDS - Route53 - ELB </li>
         </ul>
-      </li>
+      </ul>
     </ul>
 - experience:
   role: Software Engineer and Cloud Computing Specialist
