@@ -1,6 +1,55 @@
 - experience:
+  role: Head of Infrastructure
+  time: 2024 - 2025 (1yr 1mo)
+  company: Cloudwalk inc, São Paulo, Brazil
+  details: |
+    <p>
+      In this role I was responsible to keep all infrastructure up and running. Also was under my responsabilities keep costs under control and supplier contracts.
+      The principal remark of this period was when I led the migration of all infrastructure between regions in GCP (from São Paulo to Virginia).
+      The process included some kubernetes clusters, dozen of postgresql and redis instances.
+      Together with SRE, DBRE and infrastructure teams we were able to migrate everything in one night and only less than few hours of systems downtime.
+    </p>
+- experience:
+  role: Head of SRE
+  time: 2022 - 2024 (2yr 1mo)
+  company: Cloudwalk inc, São Paulo, Brazil
+  details: |
+    <p>
+    </p>
+    <ul>
+      <li> Manage SRE team keeping people motivated and interested with right challenges; </li> </li>
+      <li> Maintenance and improvements pipelines (CI, Github Actions, containers, security); </li>
+      <li> Maintenance and improvements deployment platform (CD, K8s clusters); </li>
+      <li> Development and improvements on observability of platform and applications (metrics, logs, traces); </li>
+      <li> Infrastructure and Cloud costs management. </li>
+    </ul>
+- experience:
+  role: Lead Software Engineer and Head of SRE
+  time: 2022 - 2022 (7mo)
+  company: Cloudwalk inc, São Paulo, Brazil
+  details: |
+    <p>
+    </p>
+    <ul>
+      <li> Assembly SRE team; </li>
+      <li> Lead cross initiatives between Acquiring and SRE/Infrastructure teams. </li>
+    </ul>
+- experience:
+  role: Lead Software Engineer
+  time: 2021 - 2022 (1yr 2mo)
+  company: Cloudwalk inc, São Paulo, Brazil
+  details: |
+    <p>
+    </p>
+    <ul>
+      <li> Lead the team responsible for Authorizations in Acquiring product; </li>
+      <li> Knowledge in ISO8583 financial industry protocol; </li>
+      <li> Development of network components that connects with Payment Network Schemes; </li>
+      <li> Improvement in Database design and SQL queries optimizations. </li>
+    </ul>
+- experience:
   role: Senior Software Developer
-  time: 2020 - present
+  time: 2020 - 2020 (10 mo)
   company: Pismo.io, São Paulo, Brazil
   details: |
     <p>
@@ -35,7 +84,7 @@
     </ul>
 - experience:
   role: Software Engineer and IT Specialist
-  time: 2019 - 2020
+  time: 2019 - 2020 (1yr 3mo)
   company: Plugify, São Paulo, Brazil
   details: |
     <p>
@@ -73,7 +122,7 @@
     </ul>
 - experience:
   role: Software Engineer and Cloud Computing Specialist
-  time: 2017 - 2019
+  time: 2017 - 2019 (1yr 8mo)
   company: TOTVS SA, São Paulo, Brazil
   details: |
     <p>
@@ -142,25 +191,3 @@
         <li>Recruitment</li>
       </ul>
     </ul>
-- experience:
-  role: Software Engineer
-  time: 2013 - 2014
-  company: Shopcliq, São Paulo, Brazil
-  details: |
-    <ul>
-      <li>AWS architecture definition, implementation.</li>
-      <li>Improvements into back-end software</li>
-      <li>Database analysis and improvements</li>
-      <li>Improvements in infrastructure</li>
-    </ul>
-- experience:
-  role: Operations Developer
-  time: 2011 - 2012
-  company: boo-box, São Paulo, Brazil
-  details: |
-    <p>
-      In this position I was responsible to help the Operations Team to keep
-      the system healthy and stable, and to support the Developers Team to
-      optimize the software for our infrastructure, solve bugs and improve
-      system's architecture.
-    </p>

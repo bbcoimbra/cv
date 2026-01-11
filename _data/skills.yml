@@ -8,41 +8,35 @@
   name: Sidekiq
   level: 90%
 - skill:
+  name: Linux & Shell-Script
+  level: 95%
+- skill:
   name: Redis
   level: 90%
 - skill:
-  name: MySQL
-  level: 85%
-- skill:
   name: PostgreSQL
-  level: 75%
-- skill:
-  name: Linux & Shell-Script
   level: 90%
 - skill:
-  name: Terraform
-  level: 80%
-- skill:
-  name: Docker
+  name: MySQL
   level: 75%
 - skill:
-  name: Kubernetes
-  level: 70%
+  name: Terraform
+  level: 85%
 - skill:
-  name: Ansible
+  name: Docker
+  level: 85%
+- skill:
+  name: Kubernetes
+  level: 85%
+- skill:
+  name: Rust
   level: 65%
 - skill:
   name: Golang
+  level: 60%
+- skill:
+  name: Python
   level: 50%
 - skill:
-  name: HTML & CSS
-  level: 75%
-- skill:
-  name: Javascript & EC6
-  level: 70%
-- skill:
-  name: Bulma.io CSS Framework
-  level: 65%
-- skill:
-  name: VueJS
+  name: Elixir
   level: 30%
