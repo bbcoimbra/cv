@@ -36,7 +36,7 @@ phone:
 website: blog.coimbra.dev.br #do not add http://
 linkedin: bbcomibra
 github: bbcoimbra
-twitter: '@bbcoimbra'
+#twitter: '@bbcoimbra'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
