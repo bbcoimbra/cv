@@ -1,6 +1,5 @@
 - intro:
   description: "This is a list of my side projects."
-
 - project:
   title: Ruby system-getifaddrs
   link: "https://github.com/bbcoimbra/system-getifaddrs"
