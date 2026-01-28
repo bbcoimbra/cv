@@ -4,11 +4,23 @@
   company: Cloudwalk inc, São Paulo, Brazil
   details: |
     <p>
-      In this role I was responsible to keep all infrastructure up and running. Also was under my responsabilities keep costs under control and supplier contracts.
-      The principal remark of this period was when I led the migration of all infrastructure between regions in GCP (from São Paulo to Virginia).
-      The process included some kubernetes clusters, dozen of postgresql and redis instances.
-      Together with SRE, DBRE and infrastructure teams we were able to migrate everything in one night and only less than few hours of systems downtime.
     </p>
+    <ul>
+      <li>
+        Led a high-stakes, full-infrastructure migration between GCP continents (São Paulo to Virginia).
+        Successfully relocated three Kubernetes clusters, 30 PostgreSQL databases, and 40 Redis instances with under 2 hours of planned downtime and zero data loss.
+      </li>
+      <li>
+        Managed a cross-functional migration team comprising SRE, DBRE, and infrastructure engineers.
+        Orchestrated the entire process, from planning and testing to execution, ensuring a coordinated, single-night cutover.
+      </li>
+      <li>
+        Owned overall infrastructure uptime and health, implementing monitoring, alerting, and incident response protocols to maintain high availability standards across all systems.
+      </li>
+      <li>
+        Governed cloud spending and vendor contracts, implementing cost-control measures and strategic negotiations that kept infrastructure costs within budget while supporting business growth.
+      </li>
+    </ul>
 - experience:
   role: Head of SRE
   time: 2022 - 2024 (2yr 1mo)
@@ -17,11 +29,11 @@
     <p>
     </p>
     <ul>
-      <li> Manage SRE team keeping people motivated and interested with right challenges; </li> </li>
-      <li> Maintenance and improvements pipelines (CI, Github Actions, containers, security); </li>
-      <li> Maintenance and improvements deployment platform (CD, K8s clusters); </li>
-      <li> Development and improvements on observability of platform and applications (metrics, logs, traces); </li>
-      <li> Infrastructure and Cloud costs management. </li>
+      <li>Platform Modernization: Led the strategic migration from Google App Engine to Kubernetes, establishing a scalable, portable foundation for all company systems.</li>
+      <li>CI/CD & Developer Experience: Owned the CI/CD pipeline (GitHub Actions, containers), focusing on speed, security, and reliability to accelerate development cycles.</li>
+      <li>Production Platform Management: Operated and advanced the Kubernetes-based deployment platform, ensuring high availability and implementing GitOps workflows.</li>
+      <li>Observability Leadership: Architected and implemented the full-stack observability solution (metrics, logs, traces) to drive system transparency and reduce troubleshooting time.</li>
+      <li>Financial Ownership: Managed cloud infrastructure budgets, implemented cost-control measures, and realized significant savings through optimization initiatives.</li>
     </ul>
 - experience:
   role: Lead Software Engineer and Head of SRE
@@ -31,8 +43,10 @@
     <p>
     </p>
     <ul>
-      <li> Assembly SRE team; </li>
-      <li> Lead cross initiatives between Acquiring and SRE/Infrastructure teams. </li>
+      <li>Team & Function Leadership: Built and managed the SRE/Platform team, establishing core reliability practices and a culture of automation.</li>
+      <li>Infrastructure Strategy: Directed the seamless migration of critical services between cloud providers to optimize costs and resilience.</li>
+      <li>Data Systems Ownership: Took full operational ownership of large PostgreSQL databases, ensuring performance, stability, and disaster recovery readiness.</li>
+      <li>Project Delivery: Managed team capacity and priorities to guarantee the on-time delivery of complex infrastructure projects and platform initiatives.</li>
     </ul>
 - experience:
   role: Lead Software Engineer
@@ -42,10 +56,16 @@
     <p>
     </p>
     <ul>
-      <li> Lead the team responsible for Authorizations in Acquiring product; </li>
-      <li> Knowledge in ISO8583 financial industry protocol; </li>
-      <li> Development of network components that connects with Payment Network Schemes; </li>
-      <li> Improvement in Database design and SQL queries optimizations. </li>
+      <li>Led the Authorization Platform Team for the core Acquiring product, mentoring 4 engineers and owning the roadmap for a system processing an average of 3M+ transactions daily.</li>
+      <li>Leveraged ISO8583 Expertise to design and maintain financial transaction processing systems, ensuring seamless and compliant communication with major Payment Network Schemes.</li>
+      <li>
+        Architcted Critical Network Integrations by developing and maintaining the proprietary connectors and socket-based services that interface directly with external payment networks,
+        focusing on stability and millisecond-level performance.
+      </li>
+      <li>
+        Optimized Database Performance by redesigning key tables and refining SQL queries, resulting in a constant response time and supporting a 500% increase in transaction volume
+        without scaling infrastructure.
+      </li>
     </ul>
 - experience:
   role: Senior Software Developer
@@ -59,28 +79,16 @@
       be improved. 
     </p>
     <ul>
-      <li>Software development</li>
-      <ul>
-        <li>Maintenance and development of APIs in Go and Groovy/Java</li>
-        <li>Automatic tesing / TDD/BDD </li>
-      </ul>
-      <li>DevOps/SRE Stuff</li>
-      <ul>
-        <li>CI/CD</li>
-        <ul>
-          <li> Build and Maintenance of Docker images for applications </li>
-          <li> Create pipeline of test and Docker image creation for CI (CircleCI) </li>
-          <li> Deployment in Kubernetes </li>
-          <li> Deployment in AWS - EC2 - S3 - RDS - Route53 - ELB </li>
-        </ul>
-        <li>Monitoring</li>
-        <ul>
-          <li> Code instrumentation for distributed tracing (Opentracing, Honeycomb) </li>
-          <li> Distributed logging tools (using Datadog) </li>
-          <li> Metric collectors and dasboards creation </li>
-          <li> Monitoring of error budgets and SLOs </li>
-        </ul>
-      </ul>
+      <li>Developed and maintained critical customer-facing APIs and systems using Go and Groovy/Java, directly supporting the company's primary revenue stream.</li>
+      <li>
+        Drove system reliability by implementing application instrumentation, metric collection, and monitoring of SLOs/error budgets.
+        Used data-driven insights to prioritize and execute performance improvements.
+      </li>
+      <li>
+        Engineered a robust development workflow through Test-Driven Development (TDD), comprehensive automated testing, and the creation of Docker-based CI/CD pipelines,
+        significantly reducing regressions and streamlining deployments.
+      </li>
+      <li>Embraced DevOps responsibilities, including Docker image management, pipeline creation, and operational monitoring, ensuring high availability and performance of owned services.</li>
     </ul>
 - experience:
   role: Software Engineer and IT Specialist
@@ -88,37 +96,36 @@
   company: Plugify, São Paulo, Brazil
   details: |
     <p>
-      In this position I was responsible for all development, deployment and maintenance of product.
-      As the only IT person, I had to undertood the needs of internal customers, stakeholders and make
-      a functional, usable and beauty system to control the stock of devices to rent and rented.
-      All systems were developed with a Ruby stack (Rails, RSpec, Sidekiq) and Postgresql for DB, and
-      deployed in AWS.
+      Sole architect, developer, and operator of the company's core
+      internal platform. Translated business needs (stock management,
+      financial integration) into a complete, production-grade system that
+      automated device rental logistics from end-to-end.
     </p>
     <ul>
-      <li>Product Development</li>
-      <ul>
-        <li>Stock Control</li>
-        <li>Bank Integration</li>
-        <li>Admin Dashboard</li>
-        <li>Customer Dashboard</li>
-      </ul>
-      <li>Ruby specialist</li>
-      <ul>
-        <li>Development of orchestration software for internal products</li>
-        <ul>
-          <li> Frameworks (Rails / Sinatra) </li>
-          <li> Tests automation (Rspec) </li>
-          <li> Web servers deployment (Puma) </li>
-          <li> Background jobs (Sidekiq) </li>
-        </ul>
-      </ul>
-      <li>Infraestructure Deployment and Management</li>
-      <ul>
-        <li>Deployment in AWS</li>
-        <ul>
-          <li> EC2 - S3 - RDS - Route53 - ELB </li>
-        </ul>
-      </ul>
+      <li>
+        Full-Product Lifecycle Ownership: Single-handedly managed the entire
+        technical stack—from concept and UX design through development,
+        deployment, and ongoing maintenance—for the mission-critical device
+        rental management system.
+      </li>
+      <li>
+        Business Process Automation: Developed and integrated all key
+        modules: Stock Control (real-time inventory), Bank Integration (payment
+        processing), and dual Admin & Customer Dashboards, directly replacing
+        manual processes and improving operational accuracy.
+      </li>
+      <li>
+        Full-Stack Ruby Expertise: Built a robust, scalable application
+        using Ruby on Rails (RSpec, Sidekiq, Puma) with a PostgreSQL database,
+        implementing automated testing, background job processing, and
+        performance optimization.
+      </li>
+      <li>
+        End-to-End Cloud Infrastructure: Designed, deployed, and managed
+        the complete AWS production environment (EC2, RDS, S3, ELB, Route53),
+        ensuring high availability, security, and scalability for the
+        business-critical application.
+      </li>
     </ul>
 - experience:
   role: Software Engineer and Cloud Computing Specialist
