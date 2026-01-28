@@ -310,3 +310,61 @@ used for profile image
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 
+@media print {
+  .job-title {
+    break-before: auto;
+  }
+  .experience-section .item {
+    break-before: avoid;
+    break-after: page;
+  }
+  .languages-container.container-block {
+    display: none;
+  }
+  .education-container.container-block {
+    display: none;
+  }
+  .interests-container.container-block {
+    display: none;
+  }
+
+  .contact-container.container-block {
+    padding: 5px 37px;
+  }
+  .contact-container.container-block .website {
+    display: none;
+  }
+  .contact-container.container-block .linkedin {
+    display: none;
+  }
+  .contact-container.container-block .github {
+    display: none;
+  }
+  .profile-img {
+    width: 0;
+    height: 0;
+  }
+  .main-wrapper .experiences-section .item {
+    margin-bottom: 30px;
+    orphans: 4;
+  }
+  .wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .sidebar-wrapper {
+    align-items: flex-end;
+    min-height: 100pt;
+  }
+  .skills-section.section {
+    display: none;
+  }
+  footer.footer {
+    display: none;
+  }
+
+@page{
+     size: portrait;
+    }
+}
