@@ -16,19 +16,13 @@ tagline: Software Engineer | IT Specialist
 pic: profile_avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: |
   <p>
-    I am a generalist engineer focused on solving problems quickly and
-    with maintainability.
+    Accomplished technical leader with dual expertise in high-level software architecture and SRE/DevOps leadership.
   </p>
   <p>
-    I'm proficient in Ruby ecosystem (Deployments, Automatic Tests, Tasks automation,
-    Web Development, Refactor) and skilled in MySQL &amp; PostgreSQL relational
-    databases. I've deep knowledge in Cloud Computing (AWS, GCloud, Digital Ocean).
+    As Head of SRE, I was responsible for system reliability, incident management, and building a proactive platform engineering function. My background as a Principal Software Engineer ensures solutions are designed for operability and scale from the outset.
   </p>
   <p>
-    Related to Infrastructure and Tasks Automation I am experienced
-    in Cloud Computing providers (AWS, GCloud, Digital Ocean), automation
-    with Terraform, Ansible, Kubernetes, Docker, Shell Script (and related
-    tools like sed, awk, ssh, bc, etc).
+    I possess deep, hands-on skills in cloud infrastructure (AWS, GCP), Infrastructure as Code (Terraform), containerization (Docker, Kubernetes), Ruby/Go/Rust ecosystems and PostgreSQL database, which I leverage to mentor teams and direct technical strategy.
   </p>
 #sidebar links
 email: bbcoimbra@gmail.com
